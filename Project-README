@@ -1,0 +1,57 @@
+# Statistical Inferences into the Property Development Industry
+
+**Author:** Nancy Ho
+
+## Overview
+
+For individuals and businesses who are new to property development, there are many difficult choices and decisions to navigate through when planning the construction and sale of their first homes. Through a statistical analysis of housing data from Kings County, California, we can learn what features go into the valuations of houses that go on the market and gain a better sense of what decisions should be made as new property developers.
+
+## Business Problem
+
+Property development is a broad process encompassing many other processes involved with developing infrastructure, including but not limited to purchasing plots of land, coordinating the construction of homes, and selling those homes to potential homeowners. You are put into a managerial position in charge of overseeing every step in the process of building a home and other real estate, and it can be a very rewarding business to engage in. However, these rewards are met with equally as great risks, and it can be hard to make decisions when starting out as a new developer; housing developers make the most meticulous decisions in order to maximize their profits in the end. Through a statistical analysis of housing data from Kings County, California, we can form a foundational insight into what kind of decisions to make. Some business questions we will try to answer to better understand property development are:
+
+- What kinds of factors contribute to a house's base value?
+- When building a house, what factors should we look out for before beginning the construction of property?
+- What qualities do expensive houses have that cheaper houses don't?
+- How does the condition of a house at the point of sale influence the value of a house?
+
+By the end of this analysis, we will prepare you to make your own informed decisions as a new property developer.
+
+## Data
+For this analysis, we'll be using a .csv file, `kc_house_data.csv`, a set of data for houses in Kings County from the repository's `data` folder that shows the prices houses sold at and their other attributes from the time of sale. Information about the data in its entirety can be reviewed in the the `data` folder, but for this analysis, I use these features from the dataset:
+
+* `id` - unique identifier for each house
+* `price` -  price house sold for
+* `bedrooms` -  number of bedrooms
+* `sqft_living` - square footage of house
+* `sqft_lot` -  square footage of house's lot
+* `floors` -  number of floors in the house
+* `condition` - rating of a house's condition at time of sale, from a scale of 1-5
+* `yr_built` - year house was originally built
+
+## Methods
+
+
+
+## Results
+
+
+
+## Conclusions
+
+
+
+## For More Information
+
+
+
+## Repository Structure
+```
+├── README.md                             <- The top-level README for reviewers of this project
+├── Property_Development_Analysis.ipynb
+├── Property_Development_Analysis_unfiltered.ipynb       <- Narrative documentation of analysis in Jupyter notebook
+├── Property_Development_Analysis_Presentation.pdf       <- PDF version of project presentation
+├── data                                  <- Both sourced externally and generated from code
+├── images                                <- Both sourced externally and generated from code
+└── sources.md
+```
