@@ -4,11 +4,11 @@
 
 ## Overview
 
-For individuals and businesses who are new to property development, there are many difficult choices and decisions to navigate through when planning the construction and sale of their first homes. Through a statistical analysis of housing data from Kings County, California, we can learn what features go into the valuations of houses that go on the market and gain a better sense of what decisions should be made as new property developers.
+For individuals and businesses who are new to property development, there are many difficult choices and decisions to navigate through when planning the construction and sale of their first homes. Through a statistical analysis of housing data from Kings County, Washington, we can learn what features go into the valuations of houses that go on the market and gain a better sense of what decisions should be made as new property developers.
 
 ## Business Problem
 
-Property development is a broad process encompassing many other processes involved with developing infrastructure, including but not limited to purchasing plots of land, coordinating the construction of homes, and selling those homes to potential homeowners. You are put into a managerial position in charge of overseeing every step in the process of building a home and other real estate, and it can be a very rewarding business to engage in. However, these rewards are met with equally as great risks, and it can be hard to make decisions when starting out as a new developer; housing developers make the most meticulous decisions in order to maximize their profits in the end. Through a statistical analysis of housing data from Kings County, California, we can form a foundational insight into what kind of decisions to make. Some business questions we will try to answer to better understand property development are:
+Property development is a broad process encompassing many other processes involved with developing infrastructure, including but not limited to purchasing plots of land, coordinating the construction of homes, and selling those homes to potential homeowners. You are put into a managerial position in charge of overseeing every step in the process of building a home and other real estate, and it can be a very rewarding business to engage in. However, these rewards are met with equally as great risks, and it can be hard to make decisions when starting out as a new developer; housing developers make the most meticulous decisions in order to maximize their profits in the end. Through a statistical analysis of housing data from Kings County, Washington, we can form a foundational insight into what kind of decisions to make. Some business questions we will try to answer to better understand property development are:
 
 - What kinds of factors contribute to a house's base value?
 - When building a house, what factors should we look out for before beginning the construction of property?
@@ -92,7 +92,7 @@ Bedrooms and bathrooms didn't really contribute much to our model, so it's hard 
 To try and create more reliable regression models that can better explain and answer our questions what impacts housing prices, there are some steps we can take going forward:
 
 - Finding different ways to scale and transform data to gain better regression statistics, since transforming all our continuous data wasn't enough to improve the reliability of our results by much.
-- Regression analysis on more dense counties; since King County has a small population the data used in this analysis may not be as reliable as data from counties with more dense populations along with other factors like business, tourism, etc.
+- Regression analysis on housing prices in other highly populated counties in the U.S. (Los Angeles, New York, etc.) and less populated counties in Washington to potentially discover other factors behind housing prices such as business and tourism.
 - Using data about how housing prices change over time in response to economic factors (i.e. inflation) in conjunction with our data about house sales may help us be proactive in our decisions as prospective developers.
 
 ## For More Information
